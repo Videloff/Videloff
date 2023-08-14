@@ -7,7 +7,7 @@
 <p>Je suis actuellement en formation chez <a href="https://www.thehackingproject.org/" target="_blank">
 <img src="https://www.thehackingproject.org/packs/media/images/logo/20210910-THP-Logo_color_transparent-7bcda2eebdfc9e089cfe84bda563a4e7.png"?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; height: 16px" />
 </a> pour devenir développeur FullStack. J'y ai développé des compétences en RubyOnRails, Javascript, React, SQL ainsi qu'une familiarisation de Tailwind et Boostrap. Je suis en réorientation après mon cursus chez <a href="https://42.fr/" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtryqTShf-SrX-saDaiM6blhGT8fNMZac8w&usqp=CAU"?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; height: 20px" /></a>.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJtryqTShf-SrX-saDaiM6blhGT8fNMZac8w&usqp=CAU"?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; height: 14px" /></a>.</p>
 <br>
 
 <h3 align="left">Langages et outils:</h3>
