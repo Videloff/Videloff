@@ -1,7 +1,7 @@
 <h2>Bonjour ! Moi, c'est Vincent 👋 (en recherche de stage web)</h2>
 <br>
 
-<h3>développeur web back-end junior</h3>
+<h3>Développeur web back-end junior</h3>
 <br>
 
 <p>Je suis actuellement en formation chez <a href="https://www.thehackingproject.org/" target="_blank">
