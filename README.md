@@ -6,7 +6,7 @@
 
 <p>Je suis actuellement en formation chez <a href="https://www.thehackingproject.org/" target="_blank">
 <img src=https://logo.clearbit.com/www.thehackingproject.org?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; height: 40px" />
-</a> pour devenir développeur FullStack. J'y ai développer des compétences nottament avec RubyOnRails, Javascript, React, SQL ainsi qu'une familiarisation avec Tailwind et Boostrap. Je suis en réorientation avec mon cursus chez <a href="https://42.fr/" target="_blank">
+</a> pour devenir développeur FullStack. J'y ai développer des compétences en RubyOnRails, Javascript, React, SQL ainsi qu'une familiarisation de Tailwind et Boostrap. Je suis en réorientation après mon cursus chez <a href="https://42.fr/" target="_blank">
 <img src=https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1463510317/xzpxzxbpjcsntstq4bfa.jpg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; height: 20px" /></a> chez qui j'étais dans une branche graphique et principalement en C.</p>
 <br>
 
