@@ -1,4 +1,4 @@
-<h2>Bonjour ! Moi, c'est Vincent 👋 (en recherche de stage web)</h2>
+<h2>Bonjour ! Moi, c'est Vincent 👋</h2>
 <br>
 
 <h3>Développeur web fullstack junior</h3>
